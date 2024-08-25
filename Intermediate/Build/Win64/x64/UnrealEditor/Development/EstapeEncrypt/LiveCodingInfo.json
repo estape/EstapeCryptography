@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EstapeEncrypt.cpp.obj": [
+			"EstapeEncrypt.init.gen.cpp.obj",
+			"EstapeEncryptBPLibrary.gen.cpp.obj",
+			"EstapeEncrypt.cpp.obj",
+			"EstapeEncryptBPLibrary.cpp.obj"
+		]
+	}
+}

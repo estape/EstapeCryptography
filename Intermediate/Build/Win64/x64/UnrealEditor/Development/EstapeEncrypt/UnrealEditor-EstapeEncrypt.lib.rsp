@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EstapeEncrypt.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Usuarios\Rodrigo\Documentos\GameDev\UnrealEngine\v5.4\EstapeToolsProject\Intermediate\Build\Win64\x64\EstapeToolsProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Usuarios\Rodrigo\Documentos\GameDev\UnrealEngine\v5.4\EstapeToolsProject\Plugins\EstapeEncrypt\Intermediate\Build\Win64\x64\UnrealEditor\Development\EstapeEncrypt\Module.EstapeEncrypt.cpp.obj"
+"D:\Usuarios\Rodrigo\Documentos\GameDev\UnrealEngine\v5.4\EstapeToolsProject\Plugins\EstapeEncrypt\Intermediate\Build\Win64\x64\UnrealEditor\Development\EstapeEncrypt\Default.rc2.res"
+/OUT:"D:\Usuarios\Rodrigo\Documentos\GameDev\UnrealEngine\v5.4\EstapeToolsProject\Plugins\EstapeEncrypt\Intermediate\Build\Win64\x64\UnrealEditor\Development\EstapeEncrypt\UnrealEditor-EstapeEncrypt.lib"
